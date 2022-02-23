@@ -1,0 +1,281 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Good advice to all the free-holders and corporations of England concerning the choice of their representatives to serve the ensuing parliament.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 32 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41391</idno>
+            <idno type="STC">Wing G1032</idno>
+            <idno type="STC">ESTC R30417</idno>
+            <idno type="EEBO-CITATION">11310542</idno>
+            <idno type="OCLC">ocm 11310542</idno>
+            <idno type="VID">47419</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A41391)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 47419)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1461:50)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Good advice to all the free-holders and corporations of England concerning the choice of their representatives to serve the ensuing parliament.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Baldwin ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Imperfect: print showthrough with slight loss of print.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Elections.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:47419:1"/>
+            <pb n="1" facs="tcp:47419:1" rendition="simple:additions"/>
+            <head>Good Advice TO ALL THE FREE-HOLDERS AND Corporations of <hi>ENGLAND,</hi> CONCERNING THE Choice of their <hi>REPRESENTATIVES,</hi> To Serve in the Enſuing <hi>PARLIAMENT.</hi>
+            </head>
+            <p>SINCE it hath pleaſed Almighty God in his <hi>All-wiſe Providence</hi> to make <hi>this</hi> our <hi>preſent King</hi> the Glorious Inſtrument of delivering this Nation from <hi>Popery</hi> and <hi>Arbitrary Power;</hi> and ſince His Majeſty hath been pleaſed by his Gracious Proclamation to declare, That <hi>for divers Important and Weighty Conſiderations, by and with the Advice of his Pri<g ref="char:EOLhyphen"/>vy-Council, he hath-Diſſolved the preſent Parliament; and yet that his Good Subjects may perceive the Confidence He hath in their good Affections, and how de<g ref="char:EOLhyphen"/>ſirous He is to meet his People, and have their Advice in Parliament; He hath thereby made known to his ſaid Subjects, that he hath given Directions to the Lords Commiſſioners of the Great Seal, for the Iſſuing out of Writs in due Form of Law for the Calling of New Parliament, to begin and be holden on the 20th. day of</hi> March <hi>next:</hi> It will highly concern us all, as to our preſent Inte<g ref="char:EOLhyphen"/>reſt, and therein the future happineſs of our Poſterity, to act at this time with all the Wiſdom, Courage, and Integrity we can.</p>
+            <p>Our Work is Great very Great, before us; Our Care and Prudence therefore ſhould be proportionable: We ought by no means to trifle in ſuch an Impor<g ref="char:EOLhyphen"/>tant Affair as this. If we miſcarry now, it will be our own Fault, and we ſhall have none to blame but our Selves.</p>
+            <p>The King hath given us an Opportunity now to ſhew our Selves his Friends, by chooſing ſuch Men as will be Friends to Him, and the true Intereſt of our Countrey; He hath put it into our Own hands to make our Selves as happy as we can wiſh to be, if we will but be wiſe in the Choice of our Repreſenta<g ref="char:EOLhyphen"/>tives, and take care to ſend up ſuch Members to ſerve in this Parliament as we can aſſure our Selves are,</p>
+            <p n="1">1ſt. <hi>Good Engliſh Men.</hi>
+            </p>
+            <p n="2">2d. <hi>Well-affected</hi> to the <hi>preſent Government.</hi>
+            </p>
+            <p n="3">3d. And of <hi>Ability</hi> and <hi>Courage</hi> faithfully to diſcharge that <hi>Great Truſt</hi> which is to be repoſed in them.</p>
+            <p>I ſhall not trouble you with things of a nice Conſideration, but ſuch as are eaſie and obvious to every Man's notice; my deſign is Brevity, but yet I will not be obſcure.</p>
+            <pb n="2" facs="tcp:47419:2" rendition="simple:additions"/>
+            <p>Conſider what a powerful Influence a Parliament hath upon the <hi>Settlement</hi> or <hi>Ruine</hi> of the Nation, and that both in our Religious, and in our Civilcon<g ref="char:EOLhyphen"/>cerns.</p>
+            <p>Conſider how that in all Ages there have been <hi>Ill Men;</hi> and you have very good Reaſon to be ſure that We are not without them now, who being con<g ref="char:EOLhyphen"/>ſcious to themſelves of the <hi>Ill things</hi> they have formely done, will endeavour by all the Ways and Artifices they can, to thruſt themſelves into the <hi>Houſe,</hi> there<g ref="char:EOLhyphen"/>by, if poſſible, to cover themſelves from the <hi>Publick Juſtice,</hi> which the <hi>Nation</hi> requires, and which is One <hi>proper Buſineſs</hi> and <hi>Duty</hi> of the <hi>Parliament</hi> to inflict upon them,<note place="margin">Prince of <hi>Oringe's</hi> De<g ref="char:EOLhyphen"/>claratior.</note> 
+               <hi>for all their open Violations of Law, and for their Plots and Conſpi<g ref="char:EOLhyphen"/>racies againſt the Proteſtant Religion, and the Lives and Liberties, the Honours and Eſtures of the Subject.</hi>
+            </p>
+            <p>I do not ſpeak this out of a Rancorous or Revengeful Spirit, for my Nature is not ſo inclined; and, I thank God likewiſe, that I have received better Prin<g ref="char:EOLhyphen"/>ciples from my Education; but (as <hi>Every Man is concerned, Every man may be allowed to ſpeak his own Judgment, and to differ from whom he pleaſes, provided he do it with Modeſty and due Reſpect;</hi>) I ſpeak it by way of Caution, to pre<g ref="char:EOLhyphen"/>vent Any of thoſe from becoming now our Law-makers, who have been ſo no<g ref="char:EOLhyphen"/>toriouſly known in the Two laſt Reigns for <hi>Law-breakers;</hi> I would not by any means (if I could help it) have <hi>Legicides</hi> to be turned into <hi>Legiſlators.</hi>
+            </p>
+            <p>But that I may more immediately apply my ſelf to the preſent Underta<g ref="char:EOLhyphen"/>king, give me leave, (with all imaginable Deference to better Judgments,) to preſent You with my Opinion of what <hi>ſort</hi> of Men You ought to chooſe for your <hi>Repreſentatives,</hi>
+               <note place="margin">Prince's De<g ref="char:EOLhyphen"/>clarat.</note> if you deſign in earneſt to promote <hi>the Peace, Honour and Safety of the Nation, ſo that there may be no more danger of the Nation's falling at any time hereafter under Arbitrary Government.</hi>
+            </p>
+            <p>If a conſiderable Perſon in our Church could think fit to beſtow the follow<g ref="char:EOLhyphen"/>ing <hi>Compliment</hi> upon the late <hi>
+                  <g ref="char:V">Ʋ</g>nfortunate</hi> and <hi>Abdicated</hi> King, I hope I may be permitted to beſtow it with more <hi>truth</hi> on our preſent Soveraign, who hath ſhewed himſelf ſo <hi>Brave and ſo Great</hi> in delivering an <hi>
+                  <g ref="char:V">Ʋ</g>ngrateful Nation,</hi> that the Character he hath thereby acquired in the World, will perpetuate his Me<g ref="char:EOLhyphen"/>mory to all Generations.</p>
+            <p>
+               <hi>Now we live</hi> (ſays he) <hi>under the Government of a King, who diſcovers a Great and Princely Mind in all his Actions,</hi>
+               <note place="margin">Dr. Sterl. Serm. be<g ref="char:EOLhyphen"/>fore H. of Commons. 29. May 85. p. 28.</note> 
+               <hi>and this ſecures us of as much hap<g ref="char:EOLhyphen"/>pineſs as we can expect under any Government. But it is not meerly the wiſe Conduct of a Prince, but the Governable Temper of Subjects too, which is neceſſary to make a Nation Happy: No Government, neither of God nor Men, can make thoſe happy who will not be governed.</hi>
+            </p>
+            <p>But let ſuch conſider, and duly reflect upon the Powerful Argument St. <hi>Paul</hi> urges to perſwade us to Subjection and Obedience, <hi>viz.</hi> Rom. 13. <hi>There is no Power but of God: The Powers that be, are Ordained of God. And certainly,</hi> ſays the ſame Perſon in another Treatiſe, <hi>he is</hi> no Chriſtian <hi>who diſputes Obedience to the Divine Ordinance and Conſtitution.</hi>
+            </p>
+            <p>Again,<note place="margin">11 Hen. 7. c. 1.</note> let ſuch conſider, that in <hi>Hen.</hi> 7. time all Subjects were <hi>bound</hi> by Act of Parliament to yield to the <hi>King for the time being,</hi> Faithful Service. and true Allegiance <hi>againſt every Power and Might reared againſt him;</hi> and that through the whole Body of the Act that King is called, <hi>The Soveraign Lord of the Land, their Soveraign Lord;</hi> and that this Statute has continued unrepealed about 200 years, and has been ſo long approved by the whole nation and judged well
+<pb n="3" facs="tcp:47419:2"/>conſiſtent with the <hi>Duty of Allegiance</hi> owing to their Lawful Soveraign <hi>for the time being;</hi> and therefore I hope we ſhall all gladly ſubmit to the Rule of <hi>His Scepter,</hi> who hath appeared as the <hi>Champion</hi> of Almighty God for the Reſcue of theſe Kingdoms from the Deplorable Condition to which the Affairs both of Church and State were reduced, and who hath met with ſuch a ſuc<g ref="char:EOLhyphen"/>ceſsful Providence therein, and is now in the quiet and peaceable poſſeſſion of the Throne.</p>
+            <p>Let ſuch, laſtly, conſider with themſelves the danger of their Obſtinacy and Refractorineſs in diſowning the Lawfulneſs of this preſent Government, or the Rightful Title of their Sacred Majeſties, (I hope this will concern but a few) but let them conſider, that ſuch a denying of the King <hi>de facto's</hi> Title to the Crown, and ſaying that ſuch a one was not <hi>Rightful King,</hi> with Motives,<note place="margin">Ruſn worth's <hi>Collection.</hi>
+               </note> though not impliedly of Action againſt it, hath been adjudged <hi>Treaſon;</hi> Ay, and a com<g ref="char:EOLhyphen"/>paſſing of the King's Death too; and how it was ſo, we find declared in the Rea<g ref="char:EOLhyphen"/>ſons of the Judgment, that ſuch words were ſpoken with an intent to with<g ref="char:EOLhyphen"/>draw the Affections of the People from the King, and to excite them againſt him, that in the end they might riſe up againſt him <hi>in mortem &amp; Deſtructionem</hi> of the King. Several Caſes hereof might be produced to ſhew that in all of them, the Treaſon was for <hi>words</hi> only, words by <hi>private perſons,</hi> and in a more <hi>private manner,</hi> but <hi>once</hi> ſpoken, and no more: But I forbear: I would ra<g ref="char:EOLhyphen"/>ther heal, than exaſperate.</p>
+            <p>Only this Note I would leave to the Conſideration of ſuch as have thought it <hi>unlawful</hi> to take the <hi>New Oaths;</hi> that through the <hi>whole Series</hi> of our <hi>Kings</hi> it hath often happened, that <hi>Ground ſufficient</hi> hath been given to <hi>queſtion</hi> the <hi>Right</hi> of their <hi>Succeſſion;</hi> and in the Caſes of <hi>Edward</hi> the <hi>2d,</hi> and <hi>Richard</hi> the <hi>2d,</hi> the <hi>lawfuineſs</hi> of their <hi>Depoſition;</hi> and yet <hi>no ſcruple</hi> ever was made of ta<g ref="char:EOLhyphen"/>king an <hi>Oath of Allegiance</hi> to the <hi>King,</hi> who had poſſeſſion of the Government: Nor do I remember, that ever the <hi>Biſhop</hi> of <hi>Carliſle</hi> refuſed the <hi>Oath of Allegiance.</hi>
+            </p>
+            <p>But I come now to tell you who I think are the Men that would be fit for you to <hi>fix your thoughts upon</hi> for Members to ſerve you in this approaching Parliament, and whom you may have very great Reaſon to <hi>reject;</hi> and therefore I deſire you ſeriouſly to weigh theſe following Particulars:</p>
+            <p n="1">1. If you have any regard to God's Providence in giving you ſo great and miraculous Deliverance, when (as a late Author has truly obſerved) you ſaw your ſelves <hi>upon the brink of Ruin, your Rights and Liberties Invaded,</hi>
+               <note place="margin">Laſt Y ars Tranſactions Vindicated, pag. 3.</note> 
+               <hi>your Re<g ref="char:EOLhyphen"/>ligion within an Ace of being overturned, your Laws and Conſtitution renverſed, the whole Scheme of your Ancient Government unhinged, and to compleat your Miſery, you ſaw ne probable way of Eſcape;</hi> I ſay, if you have any regard to this ſtupendious mercy of Divine Providence, take eſpecial care that you chuſe ſuch as you know have full Zeal and Affection for him, who under God hath been the Glorious Inſtrument of your Deliverance; ſuch, who will <hi>to the utmoſt of their Abilities</hi> be ready <hi>to expreſs their Gratitude to his Majeſty for ſo Great and Generous an <g ref="char:V">Ʋ</g>dertaking, which was no leſs neceſſary for the Support of the</hi> Proteſtant <hi>Intereſt in</hi> Europe, <hi>than for the recovering and maintaining the Civil Rights and Liberties of theſe Nations,</hi>
+               <note place="margin">Lords and Commons Addreſs to the King. 5. Mar. 89.</note> ſo notoriouſly invaded and under<g ref="char:EOLhyphen"/>mined; <hi>and who will unanimouſly declare, that they will ſtand by and aſſiſt their Majeſties with their</hi> Lives and Fortunes <hi>in ſupporting their Alliances abroad, and in defence of the</hi> Proteſtant <hi>Religion, and Laws of the Kingdom.</hi>
+            </p>
+            <p>Such as there will bring their own Recommendations with them; they will
+<pb n="4" facs="tcp:47419:3"/>come full fraught with Affections for the <hi>Publick Good,</hi> and will not carry on a <hi>Separate Intereſt</hi> between the King and People, for they know that the Good of One is the Good of Both; ſo that the King will think Himſelf ſafe in <hi>their</hi> Councils, they will be highly honoured in <hi>his</hi> Conſidence in them; and <hi>nothing can lay ſo ſure a</hi> Foundation <hi>of a</hi> Good Agreement <hi>between the</hi> King <hi>and his</hi> People <hi>in</hi> Parliament,<note place="margin">Kings An<g ref="char:EOLhyphen"/>ſwer to the Addreſs.</note> 
+               <hi>as ſuch a</hi> MUTUAL TRUST.</p>
+            <p>The Conſtitution of this Kingdom is the moſt happy that Humane Prudence can invent; the Ancient Government is as Temperate as the Climate we live in; therefore from the ſence of the <hi>Miſerable Deſolations</hi> which have of late been made upon almoſt every thing we accounted dear and valuable to us, we have all the Motives, and are under all the Obligations that can be, to ſe<g ref="char:EOLhyphen"/>cure now and advance the Intereſt of this moſt Excellent Conſtitution.</p>
+            <p>And who can you think more capable of procuring this Happineſs to the Nation, than ſuch who have a juſt and due ſence of this Wonderful Delive<g ref="char:EOLhyphen"/>rance, and a becoming Zeal and Affection for the <hi>only Perſon under Heaven</hi> that could, and hath, through the Divine Benignity, wrought this Salvation for us?</p>
+            <p>
+               <hi>He came by his Power to defend <g ref="char:V">Ʋ</g>s from our Enemies, and by his Juſtice to give <g ref="char:V">Ʋ</g>s the Full Enjoyment of our Lates and Liberties,</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> The <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> k<gap reason="illegible" resp="#OXF" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>'s Speech, 12. <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 1689.</note> 
+               <hi>and (which is the Ineſtima<g ref="char:EOLhyphen"/>ble Bleſſing of all) by his continual care to maintain the</hi> Proteſtant <hi>Religion to us.</hi>
+            </p>
+            <p>Theſe will come with <hi>Hearts full charged with Gratitude</hi> to him; with ſix<g ref="char:EOLhyphen"/>ed Reſolutions to give Him all the Aſſiſtances his neceſſary Engagements may require; and with Conſciences faithful to the Intereſts of thoſe Counties, Ci<g ref="char:EOLhyphen"/>ties and Boroughs for which they ſerve; and ſtrict in the due performance of all their Obligations.</p>
+            <p>Thus will there be a Bleſſed harmony between the Head and the Mem<g ref="char:EOLhyphen"/>bers: Theſe will with great Wiſdom conſult how to reſtore that Happineſs which you have been ſo long deprived of; and <hi>we are aſſured that the King will concur in every thing that may procure the Peace and Happineſs of the Nation, which ſo</hi> free <hi>and</hi> lawful <hi>a</hi> Parliament <hi>ſhall determine.</hi>
+               <note place="margin">Prince's De<g ref="char:EOLhyphen"/>claration.</note>
+            </p>
+            <p>Hereby you will be put into ſo good a Settlement, as will mightily con<g ref="char:EOLhyphen"/>duce to the Diſappointment of our Enemies both abroad and at home. But if any of you ſhould be prevailed with upon any pretence whatſoever, to make choice of other perſons, you muſt not think it ſtrange, if it ſhould be looked upon as a manifeſt Teſtimony of your <hi>Diſaffection</hi> to their preſent Majeſties.</p>
+            <p n="2">
+               <hi>2dly,</hi> That you may the more expect the Bleſſing of God to attend your Choice, ſee that you pitch upon Men of <hi>Religious Principles,</hi> I mean of the Church of <hi>England</hi> as by Law Eſtabliſhed; You need not doubt but thoſe will act well for your Intereſt, that have the true fear of God and a due ſence of Religion in their Minds; They are the Men that dare not be <hi>Diſtoyal,</hi> (as the word <hi>truly</hi> ſignifies) to the King, nor the Government. Theſe are they that will ſhew moſt Zeal to maintain the <hi>pure Religion</hi> of the Church of <hi>England.</hi> The <hi>Montrchy</hi> and the <hi>Church</hi> will be ſecure in them. Theſe having a true ſenſe of the Goodneſs of Almighty God to themſelves in ſetling ſuch a <hi>happy Conſtitution</hi> here, as is mot agreeable to their <hi>own Conſciences,</hi> will not be without a due ſenſe of the <hi>Right</hi> of all Mankind to the <hi>Liberty</hi> of <hi>their Con<g ref="char:EOLhyphen"/>ſciences,</hi> and therefore will allow other Men the <hi>ſame freedom,</hi> whoſe <hi>Principles</hi> are not <hi>deſtructive</hi> to the Peace of the Government.</p>
+            <p>Says a Great and Reverend Prelate that now is. ſome nine years ſince, in a Sermon he Preached before the Aldermen of <hi>London, Some have thought
+<pb n="5" facs="tcp:47419:3"/>they could not be eſteemed</hi> Loyal, <hi>if they appeared</hi> Devout;<note place="margin">Dr. <hi>Burne's</hi> 30. <hi>Jan.</hi> 81. <hi>pag.</hi> 10</note> 
+               <hi>and therefore to purchaſe the one Character, were willing not only to throw off, but openly to re<g ref="char:EOLhyphen"/>proach the other all they could. What ill effects this hath had, how the Nation has been much corrupted by theſe Maxims, and God highly offended, is ſo obvious to every Man's Obſervation, that I need dwell no longer on it.</hi>
+            </p>
+            <p>Set not therefore your Choice on any that are Diſſolute and Prophane; you can have no ſolid ground, to believe that ſuch are like to do you good, let their loud pretences be what they will of being <hi>True</hi> to the <hi>King</hi> and the <hi>Church,</hi> and let them damn as they pleaſe all others that are not as Irreligious and Profligate as themſelves, for Rogues and Raſcalls of <hi>Commonwealth</hi> Prin<g ref="char:EOLhyphen"/>ciples; 'tis no matter what they bawl, I'm ſure they are not to be truſted in this Government.</p>
+            <p>
+               <note n="*" place="margin">Dr. F<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>'<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Serm. before the Judges at <hi>Gl<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uc.</hi> Aſſi<g ref="char:EOLhyphen"/>ze 7 <hi>Aug.</hi> 1681. 1.29, Ibid.</note> 
+               <hi>There have been, God knows,</hi> (ſays a very Eminent Divine of our Church) <hi>too too many</hi> Debauchees <hi>in the Nation, who would be thought Great</hi> Champions <hi>for the</hi> King <hi>and the</hi> Church <hi>that have done infinite prejudice to both by the mad and Frantick Expreſſions of their Zeal; who have done mighty Honour to</hi> Fanati<g ref="char:EOLhyphen"/>ciſm, <hi>by charging all with it that have not run with them to the ſame Exceſs of Riot.</hi>
+            </p>
+            <p>
+               <hi>One would think that theſe, whatſover they pretended, did really deſign nothing more than to make both the</hi> King <hi>and the</hi> Church <hi>as</hi> Friendleſs <hi>as they were able.</hi>
+               <note place="margin">Ibid.</note>
+            </p>
+            <p>
+               <hi>I wonder in my heart</hi> (ſays he) <hi>what ſhould make any</hi> debauched perſon <hi>pre<g ref="char:EOLhyphen"/>tend the leaſt Zeal for the</hi> Church of England, <hi>that heretofore would never allow themſelves (they were ſuch</hi> hot-ſpurs) <hi>the leiſure to think a wiſe, or ſedate thought.</hi>
+            </p>
+            <p>But a deep ſenſe of true Religion ſixeth men to certain Principles, which any Government or People may ſafely relye on <hi>The Thrones of Princes are eſta<g ref="char:EOLhyphen"/>bliſhed by Righteouſneſs,</hi> and the <hi>People</hi> will think themſelves as <hi>happy</hi> in a <hi>chear<g ref="char:EOLhyphen"/>ful Submiſſion</hi> to their <hi>Government,</hi> as they are in its <hi>Fundamental Conſtitution and laws.</hi>
+            </p>
+            <p n="3">
+               <hi>3ly.</hi> In the next place it is my Opinion, that you ſhould fix your Eyes upon ſuch men as you verily believe will labour moſt to unite the Affections of the People, for herein doth the ſtrength of the Government conſiſt, together with Religion, and a well-directed Conſcience.</p>
+            <p>A <hi>Mutual Truſt</hi> and <hi>Confidence</hi> is a great ſtrength in time of <hi>Common dan<g ref="char:EOLhyphen"/>ger.</hi> When we are diſtracted in Affections, we ſhall be diſtracted in Rea<g ref="char:EOLhyphen"/>ſon and Council, and when we are ſo, then is the time for our Enemies to <note n="*" place="margin">Letter to a Biſhop, <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 15.</note> 
+               <hi>have their ends of us.</hi>
+            </p>
+            <p>Pick out therefore ſuch Perſons to be your Repreſentatives, that are of Large and Catholick Principles; that will be <hi>kind to all Men, pitiful and courteous,</hi> and that will <hi>love their Neighbours as Themſelves.</hi>
+               <note place="margin">Dr. Ti<gap reason="illegible" resp="#OXF" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#OXF" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>'s Sermon. <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 15.</note> This is <hi>that which is the moſt real and ſubſtantial, the moſt large and expenſive, the moſt uſeful and be<g ref="char:EOLhyphen"/>neficial, the moſt humane, and the moſt divine Quality of which we are capable,</hi> as a very Learned and Reverend Divine hath admirably obſerved.</p>
+            <p>Such will tolerate the Tolerable, bear with the Weak, encourage the Con<g ref="char:EOLhyphen"/>ſcientious and reſtrain none but thoſe who will do whatſoever they can to reſtrain all beſides themſelves.</p>
+            <p>This would be a Door opened for all <hi>Proteſtants</hi> to enter into a mutual good underſtanding one with another, and to concur together in the preſer<g ref="char:EOLhyphen"/>ving of their Religion, ſo that it would not be poſſible for the <hi>Papiſts</hi> here<g ref="char:EOLhyphen"/>after to compaſs any of their wicked Ends againſt them.</p>
+            <p n="4">
+               <hi>4thly.</hi> Next to theſe, let me adviſe you to make choice of ſuch as be Men
+<pb n="6" facs="tcp:47419:4"/>of <hi>Temper</hi> and <hi>Moderation.</hi> We are all ſure, that the Enemies of Modera<g ref="char:EOLhyphen"/>tion have been the Enemies of our Government and Peace, which is built upon it, and kept together by it.</p>
+            <p>A Moderation of Elements and Humours makes the beſt Conſtitution of B<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dies; Moderation of Paſſions gives the beſt Temper of Soul, keeping the <hi>Midſt</hi> between Exceſs and Defect.</p>
+            <p>Conſider, The Moderate Man ſtands in no Man's way that climbs for Pre<g ref="char:EOLhyphen"/>ferment, envies no Man in it, juſtles no Man out of it; he modeſtly refuſeth what others ambitiouſly ſeek, and ſoberly uſeth what others abuſe: Ambition makes him neither Head of a Faction, nor Emulation to follow a Party.</p>
+            <p>Beſtow your Votes on ſuch as I now perſwade you to; for they are the <hi>moſt likely</hi> to remove all the Unhappy Cauſes of Diſcord and Diviſion from among us, and are the <hi>fitteſt</hi> Men in the World to ſet things <hi>right</hi> that are <hi>amiſs,</hi> and to keep things <hi>right</hi> that are ſo; and by their calm and ſober Councils to ſettle theſe Kingdoms upon the ſure and laſting Foundations of Peace and Happineſs to this and future Generations.</p>
+            <p n="5">
+               <hi>5thly,</hi> Chooſe Men of <hi>Plentiful Subſtance</hi> and <hi>Eſtate;</hi> the greater Stake they have in the Hedge of their own, the more careful they will be to pre<g ref="char:EOLhyphen"/>ſerve yours: Whereas Indigent Perſons, that poſſibly may be recommended to you by thoſe who are your Secret Enemies, will lye under a Powerful Temptation of Sacrificing You and the Nation, to gain their own private Ends upon both.</p>
+            <p>But when, I ſay, you ought to chooſe the Rich and the Wealthy, my mean<g ref="char:EOLhyphen"/>ing is not, that any one who is ſo, is a proper Object of your Choice; but, where you can, that you ſhould fix upon Perſons of Credit and Reputation in the places of their Birth, or long Habitation, and where their Fortunes lye: For you muſt needs think that Theſe whom you know, (where they are to be found) will be more tender of the Common good and welfare of their Friends, Relations and Neighbours, than <hi>Strangers</hi> creeping in at the back Doors of vaſt Expence and Purchaſe to gratifie their own Ambition.</p>
+            <p>Thoſe that ſhew themſelves ſo profuſely liberal in treating your Corpora<g ref="char:EOLhyphen"/>tions, you have great reaſon to ſuſpect of having ſome ſiniſter Ends and De<g ref="char:EOLhyphen"/>ſigns upon you. For is it likely that They who <hi>buy</hi> your Votes ſo dearly, will not endeavour to <hi>ſell</hi> your <hi>Liberties</hi> with intereſt to themſelves?</p>
+            <p>Such ſort of <hi>Ambitus,</hi> by the <hi>Calpurnian</hi> Law among the <hi>Romans</hi> was puniſh<g ref="char:EOLhyphen"/>ed by heavy Fine on the <hi>Canvaſſer;</hi> beſides that, he was afterwards render'd uncapable of being Elected into a Senator's place. And the ſame Law was al<g ref="char:EOLhyphen"/>ſo after that ratified by the <hi>Senate</hi> in the Conſulſhip of <hi>Tullius</hi> and <hi>Antonius.</hi> And by the <hi>Tullian</hi> Law the Commonaly themſelves offending in that point, were alſo moſt ſeverely puniſhed, beſide that, the <hi>Canvaſſers</hi> were to ſuffer Ten years Exilement.</p>
+            <p>But if Needy Corporations will ſell their Rights, and ſurrender the Fortreſs of wholſome Liberties to <hi>Philip</hi> of <hi>Macedon</hi>'s laden Mules, they muſt, as <hi>Eſau</hi> did, then blame their own Hunger, after the amiable Pottage.</p>
+            <p n="6">
+               <hi>6ly.</hi> Chooſe Men of <hi>competent year,</hi> theſe will not eaſily be impoſed upon to hurt you; they will conſider all Circumſtances, and weigh every thing im<g ref="char:EOLhyphen"/>partially, and will throughly underſtand the <hi>project of Bills,</hi> before they conſent to have them <hi>Laws,</hi> and will not be over-forward to give up that <hi>Property</hi> and <hi>Liberty,</hi> which your Anceſtors have ſo ſtrongly ſecured to you by wiſe and pro<g ref="char:EOLhyphen"/>vident
+<pb n="7" facs="tcp:47419:4" rendition="simple:additions"/>Laws, and purchaſed with ſo much <hi>Blood</hi> and <hi>Treaſure.</hi> But if you ſhould chooſe <hi>Raw Saplings, green Heads, <g ref="char:V">Ʋ</g>nexperienced Children,</hi> the World will judg of you as they once did of the <hi>Grecians,</hi> that you your ſelves were either al<g ref="char:EOLhyphen"/>ways Children, or are now become ſo. Will you intruſt thoſe with your Lives, Liberties, Eſtates and Religion, whom the Law will not truſt to diſpoſe of any thing they have of their own? Will you inable ſuch to give away all the Se<g ref="char:EOLhyphen"/>curities you enjoy as <hi>Engliſhmen,</hi> whoſe Bond in the account of the Law will not be taken for Forty ſhillings? It is in it ſelf an unbecoming thing, that they ſhould have any power of <hi>laying Taxes</hi> upon other Men, who cannot lay themſelves un<g ref="char:EOLhyphen"/>der any <hi>Obligations</hi> to their Creditors, by reaſon of their <hi>Minority.</hi>
+            </p>
+            <p>In Q. <hi>Eliz.</hi> time (as Sir <hi>Rob. Naunton,</hi> Maſter of the Court of Wards,<note place="margin">Sir Robert Naunton's Fragments Regalia, <hi>pag. 13.</hi>
+               </note> obſerves in his Account of her Times and Favourites,) ſays he, I do not find that the <hi>Houſe</hi> was at any time weakned and peſtered with the Admiſſion of too many Young Heads, as it hath been of later times, which remembers me of Recorder <hi>Mar<g ref="char:EOLhyphen"/>tin</hi>'s Speech about the Tenth of our late Soveraign Lord King <hi>James. (viz. 1ſt.)</hi> when there were Accounts taken of 40. Gentlemen, not above 20. and ſome not exceeding 16; which moved him to ſay, that it was the ancient Cuſtom for Old Men to make Laws for Young ones, but that he ſaw the Caſe altered,<note place="margin">
+                  <hi>Vid.</hi> Mr. <hi>Prynn</hi>'s Mi<g ref="char:EOLhyphen"/>nor, no Se<g ref="char:EOLhyphen"/>nator.</note> and that there were Children Elected unto the <hi>Great Council</hi> of the Kingdom, which came to invade and invert <hi>Nature,</hi> and to Enact Laws to govern their Fathers.</p>
+            <p n="7">
+               <hi>7thly,</hi> Chuſe ſuch as you are ſure will ſtedfaſtly adhere to the Ancient and moſt Excellent Conſtitution of this Kingdom, who will neither be for turn<g ref="char:EOLhyphen"/>ing the Government into a <hi>Common-wealth,</hi> nor for advancing the <hi>Monarchy</hi> (as of late) into a <hi>French</hi> Tyranny: By the One we ſhall have nothing but Faction and Sedition, Tumults, Licentiouſneſs, and all Confuſion; and by the other nothing but Force, a Violation of all Laws, <hi>Dragoons</hi> and <hi>Standing mer<g ref="char:EOLhyphen"/>cenary Armies,</hi> and every thing elſe carried on by Abſolute, Deſpotical, Un<g ref="char:EOLhyphen"/>bounded Will and Pleaſure. But we have ſufficiently found already the <hi>miſchievous effects</hi> of both theſe <hi>extreams,</hi> ſo as I hope we ſhall never run into the like again; ſince that would be a Total Subverſion of the <hi>Fundamen<g ref="char:EOLhyphen"/>tal Laws</hi> and <hi>Laudable Eſtabliſhments</hi> of this Kingdom, which hath made this Nation ſo many Years both Famous and Happy, to a great degree of Envy.</p>
+            <p n="8">
+               <hi>8thly,</hi> Make it your great Care to Elect ſuch as you know will do all that lies in their power to <hi>redreſs</hi> your <hi>Grievances,</hi> and to <hi>aſſert</hi> and <hi>maintain</hi> your <hi>undoubted Rights;</hi> and call to Account thoſe,<note place="margin">Kings Speech 1908. 89.</note> 
+               <hi>who</hi> (as the King hath moſt ad<g ref="char:EOLhyphen"/>mirably expreſs'd it) <hi>have ſo viſibly diſcovered their Deſigns of deſtroying your Religion and Liberties.</hi>
+            </p>
+            <p>That theſe have been manifeſtly invaded, you all will readily own; that a <hi>High Commiſſion Eccleſiaſtical</hi> hath been ſet up contrary to moſt expreſs Laws; that a Power of <hi>Diſpenſing</hi> and <hi>Suſpending</hi> of Laws, <hi>without Conſent of Par<g ref="char:EOLhyphen"/>liament,</hi> hath been openly declared in <hi>Weſtminſter-Hall,</hi> as a Right belonging to the Crown; that <hi>Seven Reverend Biſhops</hi> were committed and proſecuted as heinous <hi>Criminals,</hi> only for offering to the late King an Humble Petition, in terms full of Dutiful Reſpect, and not exceeding the Number limited by Law;<note place="margin">Prince's De<g ref="char:EOLhyphen"/>clatat.</note> that the <hi>Charters</hi> of moſt of thoſe Towns that have a Right to be Repreſented by their Burgeſſes in Parliament have been either unwarily <hi>ſurrendred,</hi> or <hi>ſeized</hi> on; and (to omit ſeveral other things) that <hi>undue Return of Juries</hi> have been made by <hi>illegal Sheriffs,</hi> and a great deal of <hi>Blood</hi> hath been ſhed in many places of the Kingdom by <hi>Judges</hi> governed by the Direction <hi>from Above,</hi> and not by
+<pb n="8" facs="tcp:47419:5"/> their own Conſdiences, againſt <hi>all the Rules and Forms of Law,</hi> you cannot for ſhame deny, ſince the Redemption of You from theſe intolerable Grie<g ref="char:EOLhyphen"/>vances was the Cauſe of His preſent Majeſty's <hi>Eſpouſing your Intereſt, as he was earneſtly ſollicited by a great many Lords,</hi>
+               <note place="margin">Prince of O. Declaration.</note> 
+               <hi>both Spiritual and Temporal, and by many Gentlemen and Subjects of all Ranks:</hi> therefore is it not your Intereſt to chuſe now ſuch Men to repreſent you in Parliament, as will with a true, brave, and noble <hi>Engliſh</hi> Reſolution endeavour to prevent ſuch great and inſuffer<g ref="char:EOLhyphen"/>able Oppreſſions for the future, Eſtabliſh your juſt and ancient Rights, ſo as none may dare to invade them hereafter, and bring to publick Juſtice ſome of the greateſt, longeſt, and moſt Notorious Offenders?</p>
+            <p>I am not for promoting you to glut your Revenge upon all thoſe <hi>Bold Con<g ref="char:EOLhyphen"/>temners of our Law;</hi> but certainly to make a few Victims for the Atone<g ref="char:EOLhyphen"/>ment of ſo much (I had like to have ſaid) irreparable Miſchief as was com<g ref="char:EOLhyphen"/>mitted, and ſo much Innocent Blood as was poured out in the two laſt Reigns, would be for the Honour of an <hi>Engliſh</hi> Parliament, and a great <hi>Juſtification</hi> both of the King and Kingdom.</p>
+            <p>I have but one word more to leave with you, and that is concerning your <hi>Elections,</hi>
+               <note place="margin">2. Inſtit. 169. 4. Inſtit. 10.</note> where I pray you to remember, that it is an <hi>Ancient Law and Li<g ref="char:EOLhyphen"/>berty</hi> of <hi>England, that Elections ſhould be freely and indifferently made, not<g ref="char:EOLhyphen"/>withſtanding any Prayer or Commandment to the contrary.</hi> 1. Sine prece, <hi>with<g ref="char:EOLhyphen"/>out any Prayer or Gift; and</hi> ſine praecepto, <hi>without Commandment of the King by Writ, or otherwiſe, or of any other.</hi> You are <hi>Free-men,</hi> act not as though you were <hi>bound:</hi> Let neither Force, nor Menaces, nor Malice frame you to make Election of Men <hi>unworthy,</hi> or not <hi>Eligible.</hi>
+            </p>
+            <p>Take this Concluſion with you which His Highneſs the Prince of <hi>Orange,</hi> our now preſent Soveraign, (whom God Almighty long preſerve amongſt us) delivered in his Declaration, That <hi>according to the Conſtitution of the</hi> Engliſh Government, <hi>and Immemorial Cuſtom,</hi> all Elections <hi>of Parliament-Men ought to be made with an</hi> Entire Liberty, <hi>without any ſort of Force, or the requiring the</hi> Electors <hi>to chooſe ſuch Perſons as ſhall be named, to them; and the</hi> Perſons <hi>thus</hi> freely Elected, <hi>ought to give their Opinions</hi> freely <hi>upon all</hi> Matters <hi>that are brought before them, having</hi> the Good of the Nation <hi>ever before their Eyes, and following in all things the</hi> Dictates <hi>of their</hi> Conſcience.</p>
+            <p>And thus I wiſh you happy Succeſs in your Elections, and a Bleſſed Iſſue upon the Unanimous Councils of your <hi>REPRESENTATIVES.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Richard Baldwin,</hi> near the <hi>Black Bull</hi> in the <hi>Old-Baily,</hi> 1690.</p>
+            <pb facs="tcp:47419:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
